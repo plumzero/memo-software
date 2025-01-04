@@ -13,6 +13,7 @@
   - [redis](ch02/02_redis)
   - [gitlab](ch02/03_gitlab)
   - [gitlab-ci/cd](04_gitlab_ci-cd)
+  - [jenkins](05_jenkins)
 - [二级服务](ch03)
   - [apisix](ch03/01_apisix)
   - [etcd](ch03/02_etcd)
